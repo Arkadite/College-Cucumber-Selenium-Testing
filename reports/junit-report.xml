@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="university-of-green-bay-search-testing;uwgb-search-for-school-of-business" tests="2" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/Curry/OneDrive/Documents/GitHub/GreenBayTesting/features/uwgb-search.feature">
+            </property>
+        </properties>
+        <testcase name="When I search uwgb for &quot;School of Business&quot;" classname="university-of-green-bay-search-testing;uwgb-search-for-school-of-business" time="8.519578689">
+        </testcase>
+        <testcase name="Then I should see a number of results" classname="university-of-green-bay-search-testing;uwgb-search-for-school-of-business" time="0.01172194">
+        </testcase>
+    </testsuite>
+    <testsuite name="university-of-green-bay-search-testing;uwgb-search-for-computer-science" tests="2" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/Curry/OneDrive/Documents/GitHub/GreenBayTesting/features/uwgb-search.feature">
+            </property>
+        </properties>
+        <testcase name="When I search uwgb for &quot;Computer Science&quot;" classname="university-of-green-bay-search-testing;uwgb-search-for-computer-science" time="7.509716225">
+        </testcase>
+        <testcase name="Then I should see a number of results" classname="university-of-green-bay-search-testing;uwgb-search-for-computer-science" time="0.014960268">
+        </testcase>
+    </testsuite>
+    <testsuite name="university-of-green-bay-search-testing;uwgb-search-for-computer-science" tests="2" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/Curry/OneDrive/Documents/GitHub/GreenBayTesting/features/uwgb-search.feature">
+            </property>
+        </properties>
+        <testcase name="When I search uwgb for &quot;Cofrin Library&quot;" classname="university-of-green-bay-search-testing;uwgb-search-for-computer-science" time="7.765610262">
+        </testcase>
+        <testcase name="Then I should see a number of results" classname="university-of-green-bay-search-testing;uwgb-search-for-computer-science" time="0.021126441">
+        </testcase>
+    </testsuite>
+    <testsuite name="university-of-green-bay-search-testing;uwgb-search-for-computer-science" tests="2" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/Curry/OneDrive/Documents/GitHub/GreenBayTesting/features/uwgb-search.feature">
+            </property>
+        </properties>
+        <testcase name="When I search uwgb for &quot;Housing&quot;" classname="university-of-green-bay-search-testing;uwgb-search-for-computer-science" time="7.881224156">
+        </testcase>
+        <testcase name="Then I should see a number of results" classname="university-of-green-bay-search-testing;uwgb-search-for-computer-science" time="0.013611844">
+        </testcase>
+    </testsuite>
+    <testsuite name="university-of-green-bay-search-testing;uwgb-search-for-computer-science" tests="2" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/Curry/OneDrive/Documents/GitHub/GreenBayTesting/features/uwgb-search.feature">
+            </property>
+        </properties>
+        <testcase name="When I search uwgb for &quot;Facilities&quot;" classname="university-of-green-bay-search-testing;uwgb-search-for-computer-science" time="8.008409717">
+        </testcase>
+        <testcase name="Then I should see a number of results" classname="university-of-green-bay-search-testing;uwgb-search-for-computer-science" time="0.024434938">
+        </testcase>
+    </testsuite>
+</testsuites>

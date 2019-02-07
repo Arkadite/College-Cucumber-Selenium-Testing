@@ -1,0 +1,15 @@
+{
+  "name": "greenbaytesting",
+  "version": "1.0.0",
+  "description": "Testing UWGB College website search function",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/selenium-cucumber-js/index.js -s ./step-definitions -x 50000"
+  },
+  "author": "Cameron Curry",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "selenium-cucumber-js": "^1.4.9"
+  }
+}

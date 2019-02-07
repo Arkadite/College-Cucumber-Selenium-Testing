@@ -1,0 +1,253 @@
+[
+  {
+    "description": "    I should be able to go to a website\n    and check its search functionality   ",
+    "elements": [
+      {
+        "id": "university-of-green-bay-search-testing;uwgb-search-for-school-of-business",
+        "keyword": "Scenario",
+        "line": 7,
+        "name": "UWGB Search for School of Business",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "I search uwgb for \"School of Business\"",
+            "result": {
+              "status": "passed",
+              "duration": 8519578689
+            },
+            "line": 8,
+            "match": {
+              "location": "C:\\Users\\Curry\\OneDrive\\Documents\\GitHub\\GreenBayTesting\\step-definitions\\uwgb-search-steps.js:3"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I should see a number of results",
+            "result": {
+              "status": "passed",
+              "duration": 11721940
+            },
+            "line": 9,
+            "match": {
+              "location": "C:\\Users\\Curry\\OneDrive\\Documents\\GitHub\\GreenBayTesting\\step-definitions\\uwgb-search-steps.js:9"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 2363085173
+            },
+            "hidden": true,
+            "match": {
+              "location": "C:\\Users\\Curry\\OneDrive\\Documents\\GitHub\\GreenBayTesting\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "id": "university-of-green-bay-search-testing;uwgb-search-for-computer-science",
+        "keyword": "Scenario",
+        "line": 11,
+        "name": "UWGB Search for Computer Science",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "I search uwgb for \"Computer Science\"",
+            "result": {
+              "status": "passed",
+              "duration": 7509716225
+            },
+            "line": 12,
+            "match": {
+              "location": "C:\\Users\\Curry\\OneDrive\\Documents\\GitHub\\GreenBayTesting\\step-definitions\\uwgb-search-steps.js:3"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I should see a number of results",
+            "result": {
+              "status": "passed",
+              "duration": 14960268
+            },
+            "line": 13,
+            "match": {
+              "location": "C:\\Users\\Curry\\OneDrive\\Documents\\GitHub\\GreenBayTesting\\step-definitions\\uwgb-search-steps.js:9"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 2129714438
+            },
+            "hidden": true,
+            "match": {
+              "location": "C:\\Users\\Curry\\OneDrive\\Documents\\GitHub\\GreenBayTesting\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "id": "university-of-green-bay-search-testing;uwgb-search-for-computer-science",
+        "keyword": "Scenario",
+        "line": 16,
+        "name": "UWGB Search for Computer Science",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "I search uwgb for \"Cofrin Library\"",
+            "result": {
+              "status": "passed",
+              "duration": 7765610262
+            },
+            "line": 17,
+            "match": {
+              "location": "C:\\Users\\Curry\\OneDrive\\Documents\\GitHub\\GreenBayTesting\\step-definitions\\uwgb-search-steps.js:3"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I should see a number of results",
+            "result": {
+              "status": "passed",
+              "duration": 21126441
+            },
+            "line": 18,
+            "match": {
+              "location": "C:\\Users\\Curry\\OneDrive\\Documents\\GitHub\\GreenBayTesting\\step-definitions\\uwgb-search-steps.js:9"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 2125213999
+            },
+            "hidden": true,
+            "match": {
+              "location": "C:\\Users\\Curry\\OneDrive\\Documents\\GitHub\\GreenBayTesting\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "id": "university-of-green-bay-search-testing;uwgb-search-for-computer-science",
+        "keyword": "Scenario",
+        "line": 21,
+        "name": "UWGB Search for Computer Science",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "I search uwgb for \"Housing\"",
+            "result": {
+              "status": "passed",
+              "duration": 7881224156
+            },
+            "line": 22,
+            "match": {
+              "location": "C:\\Users\\Curry\\OneDrive\\Documents\\GitHub\\GreenBayTesting\\step-definitions\\uwgb-search-steps.js:3"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I should see a number of results",
+            "result": {
+              "status": "passed",
+              "duration": 13611844
+            },
+            "line": 23,
+            "match": {
+              "location": "C:\\Users\\Curry\\OneDrive\\Documents\\GitHub\\GreenBayTesting\\step-definitions\\uwgb-search-steps.js:9"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 2176016938
+            },
+            "hidden": true,
+            "match": {
+              "location": "C:\\Users\\Curry\\OneDrive\\Documents\\GitHub\\GreenBayTesting\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "id": "university-of-green-bay-search-testing;uwgb-search-for-computer-science",
+        "keyword": "Scenario",
+        "line": 26,
+        "name": "UWGB Search for Computer Science",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "I search uwgb for \"Facilities\"",
+            "result": {
+              "status": "passed",
+              "duration": 8008409717
+            },
+            "line": 27,
+            "match": {
+              "location": "C:\\Users\\Curry\\OneDrive\\Documents\\GitHub\\GreenBayTesting\\step-definitions\\uwgb-search-steps.js:3"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I should see a number of results",
+            "result": {
+              "status": "passed",
+              "duration": 24434938
+            },
+            "line": 28,
+            "match": {
+              "location": "C:\\Users\\Curry\\OneDrive\\Documents\\GitHub\\GreenBayTesting\\step-definitions\\uwgb-search-steps.js:9"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 2141397567
+            },
+            "hidden": true,
+            "match": {
+              "location": "C:\\Users\\Curry\\OneDrive\\Documents\\GitHub\\GreenBayTesting\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "university-of-green-bay-search-testing",
+    "keyword": "Feature",
+    "line": 3,
+    "name": "University of Green Bay Search Testing",
+    "tags": [],
+    "uri": "C:/Users/Curry/OneDrive/Documents/GitHub/GreenBayTesting/features/uwgb-search.feature"
+  }
+]
